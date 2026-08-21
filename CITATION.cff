@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or synthetic benchmark, please cite this repository and the associated article when its final bibliographic record is available."
+type: software
+title: "Reproducibility materials for hierarchical dual-stream POMDP-IPSO multi-UAV inspection"
+authors:
+  - family-names: Zheng
+    given-names: Zijie
+  - family-names: Zhang
+    given-names: Zhijun
+version: 1.0.0
+date-released: 2026-08-20
+license: MIT
+keywords:
+  - multi-UAV
+  - POMDP
+  - MAPPO
+  - particle swarm optimization
+  - task scheduling
+  - path planning
+  - reproducible research
+abstract: >-
+  Code, synthetic task data, run-level results, statistical summaries, and
+  figures for a reconstructed benchmark of hierarchical multi-UAV inspection
+  scheduling and decentralized control. The repository does not contain the
+  restricted operational coordinates or original field data.
